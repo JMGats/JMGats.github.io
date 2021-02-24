@@ -1,0 +1,35 @@
+body{
+	background-color:#F9EADD;
+}
+img.logo{
+display: block;
+margin-left:auto;
+margin-right: auto;
+
+}
+p{
+	text-align: center;
+	font-size: 50px;
+	
+}
+.menu{
+	font-size: 25px;
+	margin-top: 15px;
+	margin-left:230px;
+	margin-right: 230px;
+	
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	padding: 10px;
+	
+	
+	text-align: center;
+}
+.menu a {
+	margin: 0 40px;
+	font-family:serif;
+	font-style: italic;
+}
+a{
+	text-decoration:none;
+}
