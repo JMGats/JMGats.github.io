@@ -33,3 +33,7 @@ p{
 a{
 	text-decoration:none;
 }
+.contatos p{
+	text-align: center;
+	font-size: 20px;
+}
