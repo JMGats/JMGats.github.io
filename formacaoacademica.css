@@ -28,8 +28,8 @@ p{
 a{
 	text-decoration:none;
 }
-.graduação p{
-	text-align: center;
+.graduação li{
 	font-size: 20px;
-
+	margin-left:210px;
+	
 }

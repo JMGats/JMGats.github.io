@@ -28,8 +28,8 @@ p{
 a{
 	text-decoration:none;
 }
-.habilidades p{
-	text-align: center;
+.habilidades li{
 	font-size: 20px;
-
+	margin-left:210px;
+	
 }
