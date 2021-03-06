@@ -33,3 +33,21 @@ p{
 a{
 	text-decoration:none;
 }
+.objetivo{
+	text-align: center;
+	font-size: 20px;
+}
+.contatos p{
+	text-align: center;
+	font-size: 20px;
+}
+.graduação li{
+	font-size: 20px;
+	margin-left:210px;
+	
+}
+.habilidades li{
+	font-size: 20px;
+	margin-left:210px;
+	
+}
